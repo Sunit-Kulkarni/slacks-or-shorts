@@ -1,0 +1,1 @@
+const Slackbot = require('slackbots');
