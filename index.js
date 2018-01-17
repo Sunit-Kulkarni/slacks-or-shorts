@@ -1,4 +1,4 @@
-const Slackbot = require('slackbots');
+const SlackBot = require('slackbots');
 
 const BOT_NAME = 'Slacks or Shorts';
 const BOT_TOKEN = 'xoxb-299813567011-eWk4aoqgDKxCnCkOlacxn9T5'; //from slack bot settings
